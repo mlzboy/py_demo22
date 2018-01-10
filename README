@@ -1,0 +1,16 @@
+pipenv install pyvirtualdisplay selenium webdriver
+pipenv install scrapy
+pipenv shell
+cd news/news/spider
+scrapy genspider NewsSpider news.com
+scrapy crawl NewsSpider > c.out
+
+middlewares.py没有动，直接在spiders下主文件完成主功能，只是借用scrapy框架完成save
+其它应用selenium来操作
+
+另外spiders下的inject_js没有用，因为selenium.execute_script("reutrn js")完成了返回值的操作，后续如有必要，再使用inject jquery
+
+scrapy crawl NewsSpider -o aaa.csv
+scrapy list
+
+下一个demo展示使用itempipelines进行自定义的储存持久化,此例直接输出csv,使用内置的feed_export

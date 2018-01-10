@@ -1,0 +1,681 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta charset="UTF-8" /><script language="javascript" src="/module/jslib/jquery/jquery.js"></script>
+<script language="javascript" src="/module/jslib/urite/urite.min.js"></script><script type="text/ecmascript" src="data:,_data_uri_useable=1" urite-agent="1"></script>
+
+<link href="/script/page.css" type="text/css" rel="stylesheet" />
+
+		<title>浙江省人力资源和社会保障网 就业创业</title>
+<meta name="Maketime" content="2018-01-18 00:02:50" />
+<meta name="channel" content="就业创业" /> <meta name="chnlcatalog" content="专题专栏/就业创业" /> <meta name="server" content="http://www.zjhrss.gov.cn/col/col1389544/index.html,专题专栏/就业创业," />
+		<link rel="stylesheet" type="text/css" href="/images/25717/hanweb.css" />
+		<link rel="stylesheet" type="text/css" href="/images/25739/column.css" />
+		<!--<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>-->
+		<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+
+	<link href="http://www.zjhrss.gov.cn/module/jslib/datepicker/skin/WdatePicker.css" rel="stylesheet" type="text/css" /></head>
+
+	<body><div id="hiddenLocation" style="display:none;"><span id="ss_webid">2758</span><span id="col2_name">专题专栏</span><span id="col2_url">/col/col1389544/index.html</span><span id="col1_name">就业创业</span><span id="col1_url">/col/col1389544/index.html</span></div><div id="barrierfree_container">
+		<!--顶部-->
+		<script src="/script/0/1711291534586106.js"></script><style>
+.header .left p a {
+    color: #333;
+}
+
+.header .left p a:hover {
+    color: red;
+}
+
+.header .left p {
+    width: 100%;
+    height: 35px;
+}
+.address a:hover {
+    color: #db2625!important;
+}
+
+.address .mainBar {
+    width: 100px;
+    height: 35px;
+}
+
+#tab {
+    width: 100px;
+    height: 35px;
+    border: 1px solid #e3e3e3;
+}
+
+#tab li {
+    width: 100px;
+    height: 35px;
+    background: url(http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1711021117149777526.png) no-repeat 10px center;
+    position: relative;
+    padding: 7px 0 0 32px;
+    cursor: pointer;
+}
+
+#areaPop {
+    display: none;
+    font-size: 13px;
+    width: 810px;
+    height: 365px;
+    background: url(http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1711021124428439077.gif);
+    background-size: 100% 100%;
+    padding: 40px 30px 15px;
+    position: absolute;
+    left: -330px;
+    top: 35px;
+    z-index: 999;
+}
+
+#areaPop dl {
+    width: 102%;
+    height: 29px;
+    padding: 6px 0;
+    overflow: hidden;
+    line-height: 29px;
+}
+
+#areaPop dl a {
+    display: block;
+    float: left;
+    width: 7%;
+    height: 29px;
+    line-height: 16px;
+    overflow: hidden;
+    text-align: left;
+    color: #333;
+}
+.nav ul {
+    widows: 100%;
+    height: 48px;
+}
+
+.nav ul li {
+    float: left;
+    height: 48px;
+    width: 150px;
+    border-right: 1px solid #e3e3e3;
+    line-height: 48px;
+    position: relative;
+}
+
+.nav ul li.li7 {
+    width: 199px;
+}
+
+.nav ul li&gt;a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #333;
+    text-align: center;
+    font-family: '微软雅黑'
+}
+
+.nav ul li a:hover {
+    text-decoration: none;
+}
+
+.nav ul li.li1 {
+    padding-left: 40px;
+    background-image: url(http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1711020942563419449.png);
+    background-position: 35px center;
+    background-repeat: no-repeat;
+}
+
+.nav ul li:hover {
+    background-color: #bb2335;
+}
+
+.nav ul .li1:hover {
+    background-image: url(http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1711020942564151340.png);
+    background-position: 35px center;
+    background-repeat: no-repeat;
+}
+
+.nav ul li:hover&gt;a {
+    color: #fff!important;
+}
+
+.nav ul li.li7 .ewm1,
+.nav ul li.li7 .ewm2 {
+    display: none;
+}
+
+.nav ul li.li7:hover {
+    background: none;
+}
+
+.nav ul li.li7 .content1:hover .ewm1 {
+    display: block;
+}
+
+.nav ul li.li7 .content2:hover .ewm2 {
+    display: block;
+}
+
+.nav ul li.li7:hover a {
+    color: #666!important;
+}
+
+.nav ul li .subnav {
+    overflow: hidden;
+    width: 410px;
+    padding: 2px 0 2px 10px;
+    border: 1px solid #c33c3c;
+    border-top: 4px solid #c33c3c;
+    background: #ffffff;
+    position: absolute;
+    top: 48px;
+    z-index: 90;
+    margin-left: -110px;
+    display: none;
+}
+
+.nav ul li .subnav a {
+    display: block;
+    float: left;
+    width: 30%;
+    margin-right: 3.3%;
+    text-align: left;
+    font-size: 13px;
+    color: rgb(51, 51, 51);
+    height: auto;
+    line-height: 150%;
+    text-indent: 15px;
+    white-space: nowrap;
+    font-family: 宋体;
+    font-weight: normal;
+    padding: 5px 0px;
+    background: url(http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1711201103493531728.gif) left center no-repeat;
+}
+
+.nav ul li.n6 .subnav {
+    width: 149px;
+    margin-left: -20px;
+    left: 20px;
+}
+
+.nav ul li.n6 .subnav a,
+.nav ul li.n7 .subnav a {
+    width: 100%;
+}
+
+.nav ul li.n7 .subnav {
+    width: 200px;
+    margin-left: -36px;
+    left: 10px;
+}
+#areaPop1 {
+    display: none;
+    font-size: 13px;
+    width: 613px;
+    height: 90px;
+    background: url(http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1801041125029723278.png);
+    background-size: 100% 100%;
+    padding: 35px 0 0;
+    position: absolute;
+    left: -235px;
+    top: 35px;
+    z-index: 999;
+}
+
+
+#areaPop1 a {
+    display: inline-block;
+    float: left;
+    line-height: 25px;
+    overflow: hidden;
+    background: url(http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1801041135099682955.png) no-repeat 15px center;
+    padding: 0 30px;
+    color: #333;
+}
+</style>
+<div class="header">
+    <div class="w1100">
+        <div class="left fl">
+            <p>
+                <a href="http://www.zjhrss.gov.cn/">简体版</a>丨
+                <a href="/gtb_qz/index.jsp?url=http://www.zjhrss.gov.cn/">繁体版</a>丨
+                <a href="http://mail.zjhrss.gov.cn/">政务邮箱</a>
+            </p>
+        </div>
+        <div class="right fr">
+            <div style="height: 35px;background: url(http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1711020938052292533.png) no-repeat left center;padding-left: 25px;width: 135px;" class="fr">
+                <a href="http://www.zjzwfw.gov.cn/" style="color: #333;font-size: 13px;line-height: 35px;" target="_blank">浙江政务服务网</a>
+            </div>
+            <div style="height: 35px;background: url(http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1711020938052937508.png) no-repeat left center;padding-left: 20px;width: 135px;" class="fr">
+                <a href="http://www.zj.gov.cn/" style="color: #333;font-size: 13px;line-height: 35px;" target="_blank">浙江省人民政府</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="banner w1100 clearfix">
+    <div class="logo fl">
+        <img title="logo.png" src="http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1711020942558879805.png" />
+    </div>
+    <div class="address fl">
+        <div class="mainBar">
+            <ul id="tab">
+                <li class="chal"><span>切换频道</span>
+                    <!-- 带区县  已注释 -->
+                    <!-- <div class='areaPop' id='areaPop'>
+                        <dl>
+                            <a href='http://www.zjhz.hrss.gov.cn' target='_blank'><b>杭州市</b></a>
+                            <a href='http://www.scrcw.com/' target='_blank'>上城区</a>
+                            <a href='http://www.hzxc.gov.cn/pub/xczwz/qrlsbj/' target='_blank'>下城区</a>
+                            <a href='http://www.hzjgrs.gov.cn/' target='_blank'>江干区</a>
+                            <a href='http://www.gongshu.gov.cn/qrlsbj/' target='_blank'>拱墅区</a>
+                            <a href='http://www.xhldbz.gov.cn/' target='_blank'>西湖区</a>
+                            <a href='http://www.hhrc.com.cn/' target='_blank'>滨江区</a>
+                            <a href='http://www.ldbz.xs.zj.cn/' target='_blank'>萧山区</a>
+                            <a href='http://www.hzyhldbz.gov.cn/' target='_blank'>余杭区</a>
+                            <a href='http://www.fyhrss.gov.cn' target='_blank'>富阳区</a>
+                            <a href='http://www.lald.gov.cn/' target='_blank'>临安市</a>
+                            <a href='http://www.jdsrsj.gov.cn/' target='_blank'>建德市</a>
+                            <a href='http://rsj.tonglu.gov.cn/' target='_blank'>桐庐县</a>
+                            <a href='/' target='_blank'>淳安县</a>
+                        </dl>
+                        <dl>
+                            <a href='http://www.nbhrss.gov.cn/' target='_blank'><b>宁波市</b></a>
+                            <a href='http://www.hshs.gov.cn/' target='_blank'>海曙区</a>
+                            <a href='http://www.nbjdrs.gov.cn/' target='_blank'>江东区</a>
+                            <a href='http://www.nbjbhrss.gov.cn/' target='_blank'>江北区</a>
+                            <a href='http://www.blrsj.gov.cn/index.aspx' target='_blank'>北仑区</a>
+                            <a href='http://www.zhhrss.gov.cn/' target='_blank'>镇海区</a>
+                            <a href='http://rsj.nbyz.gov.cn/' target='_blank'>鄞州区</a>
+                            <a href='http://www.zjfenghua.si.gov.cn/' target='_blank'>奉化区</a>
+                            <a href='http://laodong.cixi.gov.cn/' target='_blank'>慈溪市</a>
+                            <a href='http://www.ldbz.yy.gov.cn/' target='_blank'>余姚市</a>
+                            <a href='http://www.nhrs.gov.cn/' target='_blank'>宁海县</a>
+                            <a href='http://www.xsrlsb.gov.cn/cn/index.php' target='_blank'>象山县</a>
+                        </dl>
+                        <dl>
+                            <a href='http://www.wz12333.com/' target='_blank'><b>温州市</b></a>
+                            <a href='http://www.lc12333.cn/' target='_blank'>鹿城区</a> '
+                            <a href='http://hrss.ouhai.gov.cn/' target='_blank'>瓯海区</a>
+                            <a href='http://www.lwqhr.com/' target='_blank'>龙湾区</a>
+                            <a href='http://yq.zzg.gov.cn/' target='_blank'>乐清市</a>
+                            <a href='http://www.ra12333.com/' target='_blank'>瑞安市</a>
+                            <a href='http://www.yjrsj.gov.cn/' target='_blank'>永嘉县</a>
+                            <a href='http://www.dthrss.gov.cn/' target='_blank'>洞头县</a>
+                            <a href='http://www.py12333.com/' target='_blank'>平阳县</a>
+                            <a href='http://www.tsrsrc.com.cn/' target='_blank'>泰顺县</a>
+                            <a href='http://www.cnhrss.gov.cn/' target='_blank'>苍南县</a>
+                            <a href='http://www.wc12333.com/' target='_blank'>文成县</a>
+                        </dl>
+                        <dl>
+                            <a href='http://www.zjjxrs.gov.cn/' target='_blank'><b>嘉兴市</b></a>
+                            <a href='http://www.jxrczx.com/' target='_blank'>南湖区</a>
+                            <a href='http://www.xzhrss.gov.cn/' target='_blank'>秀洲区</a>
+                            <a href='http://www.zjjiashan.lss.gov.cn/' target='_blank'>嘉善县</a>
+                            <a href='http://www.phlss.gov.cn/' target='_blank'>平湖市</a>
+                            <a href='http://www.hyshbx.gov.cn/' target='_blank'>海盐县</a>
+                            <a href='http://www.hnlss.gov.cn/' target='_blank'>海宁市</a>
+                            <a href='http://www.txlss.gov.cn/' target='_blank'>桐乡市</a>
+                        </dl>
+                        <dl>
+                            <a href='http://www.hzlss.gov.cn/' target='_blank'><b>湖州市</b></a>
+                            <a href='http://rlzyj.wuxing.gov.cn/' target='_blank'>吴兴区</a>
+                            <a href='http://www.nxrz.com/' target='_blank'>南浔区</a>
+                            <a href='http://www.zjdeqing.lss.gov.cn/' target='_blank'>德清县</a>
+                            <a href='http://www.ajhrss.gov.cn/' target='_blank'>安吉县</a>
+                            <a href='http://www.zjcxhrss.gov.cn/' target='_blank'>长兴县</a>
+                        </dl>
+                        <dl>
+                            <a href='http://www.zjsxhrss.gov.cn/' target='_blank'><b>绍兴市</b></a>
+                            <a href='http://www.sxychrss.gov.cn/' target='_blank'>越城区</a>
+                            <a href='http://www.sxxhrss.gov.cn/' target='_blank'>柯桥区</a>
+                            <a href='http://www.sylss.gov.cn/' target='_blank'>上虞区</a>
+                            <a href='http://www.zjld.gov.cn/' target='_blank'>诸暨市</a>
+                            <a href='http://www.szldj.gov.cn/' target='_blank'>嵊州市</a>
+                            <a href='http://www.xcld.zj.cn/' target='_blank'>新昌县</a>
+                        </dl>
+                        <dl>
+                            <a href='http://www.jhlss.gov.cn/' target='_blank'><b>金华市</b></a>
+                            <a href='http://www.wuchrss.gov.cn/' target='_blank'>婺城区</a>
+                            <a href='http://www.jdhrss.gov.cn/' target='_blank'>金东区</a>
+                            <a href='http://www.zjlxlss.gov.cn/' target='_blank'>兰溪市</a>
+                            <a href='http://www.dyrls.gov.cn/' target='_blank'>东阳市</a>
+                            <a href='http://www.ywrl.gov.cn/' target='_blank'>义乌市</a>
+                            <a href='http://www.ykhrss.gov.cn/' target='_blank'>永康市</a>
+                            <a href='http://www.pjhrss.gov.cn/' target='_blank'>浦江县</a>
+                            <a href='http://www.wylss.gov.cn/' target='_blank'>武义县</a>
+                            <a href='http://www.parl.gov.cn/' target='_blank'>磐安县</a>
+                        </dl>
+                        <dl>
+                            <a href='http://www.qzrls.com/' target='_blank'><b>衢州市</b></a>
+                            <a href='http://www.krs.gov.cn/' target='_blank'>柯城区</a>
+                            <a href='http://rlj.qjq.gov.cn/' target='_blank'>衢江区</a>
+                            <a href='http://www.jsrsj.gov.cn/v1/Default.aspx' target='_blank'>江山市</a>
+                            <a href='http://www.lyrlsb.gov.cn/' target='_blank'>龙游县</a>
+                            <a href='http://www.csrls.gov.cn/' target='_blank'>常山县</a>
+                            <a href='http://www.khrlj.cn/' target='_blank'>开化县</a>
+                        </dl>
+                        <dl>
+                            <a href='http://www.zsrls.gov.cn/' target='_blank'><b>舟山市</b></a>
+                            <a href='http://www.zsdhrl.gov.cn/' target='_blank'>定海区</a>
+                            <a href='http://www.ptrlsb.gov.cn/' target='_blank'>普陀区</a>
+                            <a href='http://www.dsrls.gov.cn/' target='_blank'>岱山县</a>
+                            <a href='http://rlsb.shengsi.gov.cn/' target='_blank'>嵊泗县</a>
+                        </dl>
+                        <dl>
+                            <a href='http://www.tzhrss.gov.cn/' target='_blank'><b>台州市</b></a>
+                            <a href='http://rlsbj.jj.gov.cn/' target='_blank'>椒江区</a>
+                            <a href='http://www.hyrc.gov.cn/' target='_blank'>黄岩区</a>
+                            <a href='http://lqrs.luqiao.gov.cn/' target='_blank'>路桥区</a>
+                            <a href='http://www.wlrsj.com/' target='_blank'>温岭市</a>
+                            <a href='http://www.lhhrss.gov.cn/' target='_blank'>临海市</a>
+                            <a href='http://www.yhmohrss.gov.cn/' target='_blank'>玉环县</a>
+                            <a href='http://www.smrl.gov.cn/' target='_blank'>三门县</a>
+                            <a href='http://www.ttrc.gov.cn/' target='_blank'>天台县</a>
+                            <a href='http://www.xjhr.gov.cn/' target='_blank'>仙居县</a>
+                        </dl>
+                        <dl>
+                            <a href='http://rsj.lishui.gov.cn/' target='_blank'><b>丽水市</b></a>
+                            <a href='http://ldrsj.liandu.gov.cn/' target='_blank'>莲都区</a>
+                            <a href='http://www.lqrls.com/' target='_blank'>龙泉市</a>
+                            <a href='http://www.qtrs.gov.cn/' target='_blank'>青田县</a>
+                            <a href='http://www.yhrs.gov.cn/' target='_blank'>云和县</a>
+                            <a href='http://www.qyrlsb.gov.cn/' target='_blank'>庆元县</a>
+                            <a href='http://www.jyxrlzy.com/' target='_blank'>缙云县</a>
+                            <a href='http://rsj.suichang.gov.cn/' target='_blank'>遂昌县</a>
+                            <a href='http://syrlsb.songyang.gov.cn/' target='_blank'>松阳县</a>
+                            <a href='http://www.sxrlw.cn/' target='_blank'>景宁县</a>
+                        </dl>
+                    </div> -->
+                    <div id="areaPop1">
+                        <a href="http://www.zjhz.hrss.gov.cn" target="_blank"><b>杭州市</b></a>
+                        <a href="http://www.nbhrss.gov.cn/" target="_blank"><b>宁波市</b></a>
+                        <a href="http://www.wzhrss.gov.cn/" target="_blank"><b>温州市</b></a>
+                        <a href="http://www.zjjxrs.gov.cn/" target="_blank"><b>嘉兴市</b></a>
+                        <a href="http://www.hzlss.gov.cn/" target="_blank"><b>湖州市</b></a>
+                        <a href="http://www.zjsxhrss.gov.cn/" target="_blank"><b>绍兴市</b></a>
+                        <a href="http://www.jhlss.gov.cn/" target="_blank"><b>金华市</b></a>
+                        <a href="http://www.qzrls.com/" target="_blank"><b>衢州市</b></a>
+                        <a href="http://www.zsrls.gov.cn/" target="_blank"><b>舟山市</b></a>
+                        <a href="http://www.tzhrss.gov.cn/" target="_blank"><b>台州市</b></a>
+                        <a href="http://rsj.lishui.gov.cn/" target="_blank"><b>丽水市</b></a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <script>
+            $(function() {
+                //站点切换-站点的出现及隐藏
+                $('#tab li.chal').hover(
+                    function() {
+                        $('#areaPop1').show();
+                    },
+                    function() {
+                        $('#areaPop1').hide();
+                    }
+                )
+            })
+        </script>
+    </div>
+    <div class="search fr">
+        <div class="bt-right bt-search" style="width: 340px;height: 41px;border: 1px solid #eca945;">
+            <div class="bt-input">
+                <form id="search-form" action="/jrobot/search.do" method="get" target="_blank">
+                    <input name="webid" type="hidden" value="2758" />
+                    <input name="pg" type="hidden" value="18" />
+                    <input name="p" type="hidden" value="1" />
+                    <input name="tpl" type="hidden" value="" />
+                    <input name="category" type="hidden" value="" />
+                    <input name="q" style="width:262px;line-height: 39px; height:39px; border:0px; padding-left:50px; float:left;line-height:-1 !important;background: #fff url(http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1711062132481104407.png) no-repeat 10px center;" type="text" placeholder="请输入搜索关键词" />
+                    <input type="submit" style="float:right; width:76px; height:39px;background:#eca945;font-size: 17px;color: #fff;line-height: 39px;" value="搜索" />
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="nav">
+    <div class="w1100">
+        <div style="width: 100%;height: 48px;border-left: 1px solid #e3e3e3;font-size: 17px;">
+            <ul class="clearfix">
+                <li class="li1"><a href="/">首页</a></li>
+                <li>
+                    <a href="/col/col1389507/index.html">政务公开</a>
+                    <div class="subnav" style="display: none;">
+                        <a href="/col/col1389896/index.html" title="组织机构" target="_self">组织机构</a>
+                        <a href="/col/col1390149/index.html" title="人事任免" target="_self">人事任免</a>
+                        <a href="/col/col1390142/index.html" title="规划统计" target="_self">规划统计</a>
+                        <a href="/col/col1389521/index.html" title="部门预决算" target="_self">部门预决算</a>
+                        <a href="/col/col1390144/index.html" title="公告公示" target="_self">公告公示</a>
+                        <a href="/col/col1389524/index.html" title="政务动态" target="_self">政务动态</a>
+                        <a href="/col/col1416965/index.html" title="表格下载" target="_self">表格下载</a>
+                        <a href="/col/col1389528/index.html" title="其他" target="_self">其他</a>
+                        <a href="/col/col1414055/index.html" title="行政复议决定书公开" target="_self">行政复议决定书公开</a>
+                        <a href="/col/col1389530/index.html" title="政府信息公开" target="_self">政府信息公开</a>
+                    </div>
+                </li>
+                <li class="n6">
+                    <a href="/col/col1389535/index.html">政策法规</a>
+                    <div class="subnav" style="display: block;">
+                        <a href="/col/col1392228/index.html">法律法规规章</a>
+                        <a href="/col/col1442999/index.html">规范性文件</a>
+                        <a href="/col/col1392230/index.html">其他文件</a>
+                        <a href="/col/col1390146/index.html" title="政策解读" target="_self">政策解读</a>
+                    </div>
+                </li>
+                <li class="n6">
+                    <a href="http://fw.zjhrss.gov.cn/">网上办事</a>
+                    <div class="subnav">
+                        <a href="http://fw.zjhrss.gov.cn/ygzw/index.jhtml" target="_blank">服务目录</a>
+                        <a href="http://fw.zjhrss.gov.cn/dwbs/index.jhtml" target="_blank">单位办事</a>
+                        <a href="http://fw.zjhrss.gov.cn/grbs/index.jhtml" target="_blank">个人办事</a>
+                    </div>
+                </li>
+                <li class="n7">
+                    <a href="http://www.zjzxts.gov.cn/wsdt.do?method=sunshine&amp;areacode=330000">互动交流</a>
+                    <div class="subnav">
+                        <a href="http://zxts.zjzwfw.gov.cn/wsdt.do?method=writes&amp;formId=2014101416992799528&amp;areacode=330000&amp;type=2" target="_blank" title="厅长信箱">厅长信箱</a>
+                        <a href="http://zxts.zjzwfw.gov.cn/wsdt.do?method=writes-start&amp;zj=0&amp;formid=2014101416992799528&amp;xjlb=0&amp;type=1" target="_blank" title="网上咨询">网上咨询</a>
+                        <a href="http://www.zjzxts.gov.cn/wsdt.do?method=writes-start&amp;zj=0&amp;formid=2014101416992799528&amp;xjlb=1&amp;type=1" target="_blank" title="监督投诉">监督投诉</a>
+                        <a href="http://fw.zjhrss.gov.cn/index/sbjjtsjbonindex.jspx" target="_blank" title="社保基金违纪违规投诉举报">社保基金违纪违规投诉举报</a>
+                        <a href="/col/col1389542/index.html" title="征求意见">征求意见</a>
+                    </div>
+                </li>
+                <li>
+                    <a href="/col/col1389544/index.html">专题专栏</a>
+                    <div class="subnav">
+                        <a href="/col/col1389544/index.html" title="就业创业">就业创业</a>
+                        <a href="/col/col1389545/index.html" title="人才工作">人才工作</a>
+                        <a href="/col/col1389546/index.html" title="社会保险">社会保险</a>
+                        <a href="/col/col1389547/index.html" title="劳动关系">劳动关系</a>
+                        <a href="/col/col1389548/index.html" title="收入分配">收入分配</a>
+                        <a href="/col/col1389549/index.html" title="人事管理">人事管理</a>
+                        <a href="/col/col1443681/index.html" title="事业（省属国企）公开招聘" style="width: 100%;">事业（省属国企）公开招聘</a>
+                        <a href="/col/col1389551/index.html" target="_blank" title="专业技术人员培训和资格考试">专业技术人员培训和资格考试</a>
+                    </div>
+                </li>
+                <li class="li7">
+                    <div class="con" style="height: 100%;width: 100%;">
+                        <div class="content1" style="height: 100%;width: 50%;float: left;padding: 10px 0 10px 35px;background: url(http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1711021404196825496.png) no-repeat 20px center;position: relative;">
+                            <a href="javascript:;" style="display: block;text-align: center;font-size:13px;height: 28px;width: 100%;color: #666;border-right: 1px solid #e3e3e3;line-height: 28px;">客户端</a>
+                            <div class="ewm1" style="position: absolute;width: 90px;height: 90px;top: 48px;left: 5px;z-index: 999;">
+                                <img src="http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1711021725398431489.png" alt="" style="display: block;width: 100%;height: 100%;" />
+                            </div>
+                        </div>
+                        <div class="content2" style="height: 100%;width: 50%;float: left;padding: 10px 0 10px 30px;background: url(http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1711021404197488599.png) no-repeat 12px center;position: relative;">
+                            <a href="javascript:;" style="display: block;text-align: center;font-size:13px;height: 28px;width: 100%;color: #666;line-height: 28px;">公众号</a>
+                            <div class="ewm2" style="position: absolute;width: 90px;height: 90px;top: 48px;left: 5px;z-index: 999;">
+                                <img src="http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2758/site/picture/0/1711021719459571991.png" alt="" style="display: block;width: 100%;height: 100%;" />
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <script>
+            $(function() {
+                $('.nav ul li').hover(
+                    function() {
+                        $(this).find('.subnav').show();
+                    },
+                    function() {
+                        $(this).find('.subnav').hide();
+                    }
+                )
+            })
+            window.onload = function() {
+                var iframe = $('.message iframe')[0];
+                if (iframe) {
+                    var iframe_documet = iframe.contentDocument || iframe.contentWindow;
+                    var $a = $(iframe_documet).find('a:contains("领导信息")')
+                    var $b = $(iframe_documet).find('a:contains("岗位责任人")')
+                    var $c = $(iframe_documet).find('a:contains("组织机构")')
+                    if (iframe_documet &amp;&amp; $a.length &gt; 0) {
+                        $a.attr('onclick', 'funclick ("C0102","orderid:1")')
+                    }
+                    if (iframe_documet &amp;&amp; $b.length &gt; 0) {
+                        $b.attr('onclick', 'funclick ("C0103","orderid:1")')
+                    }
+                    if (iframe_documet &amp;&amp; $c.length &gt; 0) {
+                        $c.attr('onclick', 'funclick ("C01","orderid:1")')
+                    }
+                    }
+                };
+            </script>
+    </div>
+</div>
+
+		<!--当前位置-->
+		<div class="address1 w1100">
+			<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>当前位置：<a href="/index.html" class="bt_link">首页</a></td><td><table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td> &gt; <a href="/col/col1389544/index.html" class="bt_link">专题专栏</a></td><td> &gt; <a href="/col/col1389544/index.html" class="bt_link">就业创业</a></td>
+</tr></tbody></table></td></tr></tbody></table>
+		</div>
+		<!--主要内容-->
+		<div class="main w1100 clearfix">
+			<div class="left fl">
+				<div class="top">
+						
+专题专栏
+
+				</div>
+				<div class="bottom">
+					<div style="margin-top:20px;">
+
+<div class="lm-hover"><a href="/col/col1389544/index.html" title="就业创业">就业创业</a></div>
+
+<div class="lm-hover"><a href="/col/col1389545/index.html" title="人才工作">人才工作</a></div>
+
+<div class="lm-hover"><a href="/col/col1389546/index.html" title="社会保险">社会保险</a></div>
+
+<div class="lm-hover"><a href="/col/col1389547/index.html" title="劳动关系">劳动关系</a></div>
+
+<div class="lm-hover"><a href="/col/col1389548/index.html" title="收入分配">收入分配</a></div>
+
+<div class="lm-hover"><a href="/col/col1389549/index.html" title="人事管理">人事管理</a></div>
+
+<div class="lm-hover"><a href="/col/col1389551/index.html" title="专业技术人员培训和资格考试">专业技术人员培训和资格考...</a></div>
+
+<div class="lm-hover"><a href="/col/col1443681/index.html" title="事业（省属国企）公开招聘">事业（省属国企）公开招聘</a></div>
+
+<style>
+	.lm-hover{
+		height:45px;
+		line-height: 45px;
+		background:#efefef url(/picture/0/1711021557027946236.jpg) no-repeat 20px center; 
+		border-bottom: 1px solid #e3e3e3;
+		padding-left: 40px;
+	}
+	.lm-hover a{
+		color:black;
+		font-size: 17px;
+	}
+	.lm-hover:hover{
+		background: #e3e3e3;
+	}
+	.lm-hover:hover a{
+		color: #bb2335;
+	}
+</style>
+</div>
+				</div>
+			</div>
+			<div class="right fr">
+																																												<div id="4451525"><div class="default_pgContainer">
+<li style="height:50px;line-height:50px;border-bottom:1px dashed #e9e9e9"><span style="padding-right:8px"><img src="/picture/0/1711021544279186875.png" align="absmiddle" border="0" /></span><a style="font:17px;line-height: 22px;color:#333333" href="http://www.zjhrss.gov.cn/art/2018/1/17/art_1392230_10226.html" class="bt_link" title="浙江省人力资源和社会保障厅办公室关于 申报2018年国家级专业技术人才 高级研修项目的通知" target="_blank">浙江省人力资源和社会保障厅办公室关于 申报2018年国家级专业技术人才 高级研修...</a>  <span class="bt_time" style="float:right;">2018-01-17</span><br /></li>
+<li style="height:50px;line-height:50px;border-bottom:1px dashed #e9e9e9"><span style="padding-right:8px"><img src="/picture/0/1711021544279186875.png" align="absmiddle" border="0" /></span><a style="font:17px;line-height: 22px;color:#333333" href="http://www.zjhrss.gov.cn/art/2018/1/12/art_1392230_10210.html" class="bt_link" title="浙江省人力资源和社会保障厅关于公布胡文木等34人具有高级专业技术职务任职资格的通知" target="_blank">浙江省人力资源和社会保障厅关于公布胡文木等34人具有高级专业技术职务任职资格的通...</a>  <span class="bt_time" style="float:right;">2018-01-12</span><br /></li>
+<li style="height:50px;line-height:50px;border-bottom:1px dashed #e9e9e9"><span style="padding-right:8px"><img src="/picture/0/1711021544279186875.png" align="absmiddle" border="0" /></span><a style="font:17px;line-height: 22px;color:#333333" href="http://www.zjhrss.gov.cn/art/2018/1/8/art_1392230_10207.html" class="bt_link" title="浙江省人力资源和社会保障厅关于公布姚文莹等 95人具有高级经济师职务任职资格的通知" target="_blank">浙江省人力资源和社会保障厅关于公布姚文莹等 95人具有高级经济师职务任职资格的通...</a>  <span class="bt_time" style="float:right;">2018-01-08</span><br /></li>
+<li style="height:50px;line-height:50px;border-bottom:1px dashed #e9e9e9"><span style="padding-right:8px"><img src="/picture/0/1711021544279186875.png" align="absmiddle" border="0" /></span><a style="font:17px;line-height: 22px;color:#333333" href="/art/2017/12/28/art_1389544_14712052.html" class="bt_link" title="江北区：服务方式“再创新”，打造“江北工匠”品牌" target="_blank">江北区：服务方式“再创新”，打造“江北工匠”品牌</a>  <span class="bt_time" style="float:right;">2017-12-28</span><br /></li>
+<li style="height:50px;line-height:50px;border-bottom:1px dashed #e9e9e9"><span style="padding-right:8px"><img src="/picture/0/1711021544279186875.png" align="absmiddle" border="0" /></span><a style="font:17px;line-height: 22px;color:#333333" href="/art/2017/12/28/art_1389544_14711166.html" class="bt_link" title="稳岗提升相统一，为企业挑起“千斤担”——缙云就业处助力企业稳定发展" target="_blank">稳岗提升相统一，为企业挑起“千斤担”——缙云就业处助力企业稳定发展</a>  <span class="bt_time" style="float:right;">2017-12-28</span><br /></li>
+<li style="height:50px;line-height:50px;border-bottom:1px dashed #e9e9e9"><span style="padding-right:8px"><img src="/picture/0/1711021544279186875.png" align="absmiddle" border="0" /></span><a style="font:17px;line-height: 22px;color:#333333" href="/art/2017/12/28/art_1389544_14710887.html" class="bt_link" title="打好“三一”组合拳，升级“最多跑一次”——缙云县就业处革新“全市通办”" target="_blank">打好“三一”组合拳，升级“最多跑一次”——缙云县就业处革新“全市通办”</a>  <span class="bt_time" style="float:right;">2017-12-28</span><br /></li>
+<li style="height:50px;line-height:50px;border-bottom:1px dashed #e9e9e9"><span style="padding-right:8px"><img src="/picture/0/1711021544279186875.png" align="absmiddle" border="0" /></span><a style="font:17px;line-height: 22px;color:#333333" href="/art/2017/12/28/art_1389544_14710849.html" class="bt_link" title="江北区“三个加法”构建精准化人才服务体系" target="_blank">江北区“三个加法”构建精准化人才服务体系</a>  <span class="bt_time" style="float:right;">2017-12-28</span><br /></li>
+<li style="height:50px;line-height:50px;border-bottom:1px dashed #e9e9e9"><span style="padding-right:8px"><img src="/picture/0/1711021544279186875.png" align="absmiddle" border="0" /></span><a style="font:17px;line-height: 22px;color:#333333" href="/art/2017/12/28/art_1389544_14710834.html" class="bt_link" title="松阳县人力社保局三举措保障农民工合法权益" target="_blank">松阳县人力社保局三举措保障农民工合法权益</a>  <span class="bt_time" style="float:right;">2017-12-28</span><br /></li>
+<li style="height:50px;line-height:50px;border-bottom:1px dashed #e9e9e9"><span style="padding-right:8px"><img src="/picture/0/1711021544279186875.png" align="absmiddle" border="0" /></span><a style="font:17px;line-height: 22px;color:#333333" href="/art/2017/12/28/art_1389544_14709918.html" class="bt_link" title="缙云：自主创业可一次性领取失业保险金" target="_blank">缙云：自主创业可一次性领取失业保险金</a>  <span class="bt_time" style="float:right;">2017-12-28</span><br /></li>
+<li style="height:50px;line-height:50px;border-bottom:1px dashed #e9e9e9"><span style="padding-right:8px"><img src="/picture/0/1711021544279186875.png" align="absmiddle" border="0" /></span><a style="font:17px;line-height: 22px;color:#333333" href="/art/2017/12/28/art_1389544_14709850.html" class="bt_link" title="省人社厅副厅长宋云峰实地考察舟山市人力社保综合服务大厅" target="_blank">省人社厅副厅长宋云峰实地考察舟山市人力社保综合服务大厅</a>  <span class="bt_time" style="float:right;">2017-12-28</span><br /></li></div><table width="100%" border="0" cellpadding="0" cellspacing="0" class="default_pgToolbar"><tbody><tr><td><table border="0" cellspadding="0" cellspacing="0" class="default_pgPanel"><tbody><tr><td valign="middle"><select class="default_pgPerPage" title="每页显示条数" value="10"><option value="10">10</option><option value="5">5</option><option value="10">10</option><option value="15">15</option><option value="20">20</option><option value="25">25</option><option value="40">40</option></select> </td><td valign="middle"><div class="default_separator"></div></td><td valign="middle"><a class="default_pgBtn default_pgFirst default_pgFirstDisabled" title="首页" href="/col/col1389544/index.html?uid=4451525&amp;pageNum=1" disabled="disabled"></a></td><td valign="middle"><a class="default_pgBtn default_pgPrev default_pgPrevDisabled" title="上页" href="/col/col1389544/index.html?uid=4451525&amp;pageNum=0" disabled="disabled"></a></td><td valign="middle" width="10" align="left"><div class="default_separator"></div></td><td valign="middle">第 <input class="default_pgCurrentPage" type="text" value="1" title="页码" /> 页 / 共 <span class="default_pgTotalPage">143</span> 页</td><td valign="middle" width="10" align="right"><div class="default_separator"></div></td><td valign="middle"><a class="default_pgBtn default_pgNext" title="下页" href="/col/col1389544/index.html?uid=4451525&amp;pageNum=2"></a></td><td valign="middle"><a class="default_pgBtn default_pgLast" title="尾页" href="/col/col1389544/index.html?uid=4451525&amp;pageNum=143"></a></td><td valign="middle"><div class="default_separator"></div></td><td valign="middle"><div class="default_pgBtn default_pgRefresh" title="刷新"></div></td><td valign="middle" width="10" align="left"><div class="default_separator"></div></td><td valign="middle" class="default_pgSearchInfo">检索到 1429 条记录，显示第 <span class="default_pgStartRecord">1</span> 条 - 第 <span class="default_pgEndRecord">10</span> 条记录</td></tr></tbody></table></td></tr></tbody></table></div><link rel="stylesheet" type="text/css" href="/module/jpage/theme/default/css/jpage.css" /><script language="javascript" src="/module/jslib/datepicker/WdatePicker.js"></script><script language="javascript" src="/module/jslib/jquery/jquery.js"></script><script language="javascript" src="/module/jslib/jquery/cookie/jquery.cookie.js"></script><script language="javascript" src="/module/jpage/jquery.jpage.js"></script><script>var param_4451525 = {col:1,appid:'1',webid:2758,path:'/',columnid:1389544,sourceContentType:1,unitid:'4451525',webname:'浙江省人力资源和社会保障网',permissiontype:0}; function jpage_4451525(){$('#jpageform_4451525 :input').each(function(){param_4451525[$(this).attr('name')]=$(this).val();});$('#4451525').jpage({themeName:'default',showMode:'full',totalRecord:1000,openCookies:false,dataBefore:'',dataAfter:'',groupSize:3,proxyUrl:'/module/jpage/dataproxy.jsp',perPage:10,barPosition:'bottom',ajaxParam:param_4451525});};$(function(){$('#4451525').jpage({themeName:'default',showMode:'full',totalRecord:1429,openCookies:false,dataBefore:'',dataStore:$('#4451525').children('script').html(),dataAfter:'',groupSize:3,proxyUrl:'/module/jpage/dataproxy.jsp',perPage:10,barPosition:'bottom',ajaxParam:param_4451525});});</script>
+			</div>
+
+
+
+		</div>
+		<div class="border" style="height: 3px;width: 100%;background: #bb2335;"></div>
+		
+		<!--版权-->
+		<script src="/script/0/1711291534581648.js"></script><style>
+.footer {
+    height: 110px;
+    background: #fafafa;
+    width: 100%;
+    font-size: 13px;
+    color: #999;
+}
+
+.footer .w1100 {
+    height: 110px;
+    line-height: 30px;
+    padding: 10px 170px;
+}
+
+.footer .w1100 .center {
+    width: 72%;
+}
+
+.footer .w1100 div {
+    height: 90px;
+    text-align: center;
+}
+
+.footer .w1100 div p a {
+    color: #999;
+}
+</style>
+<div class="footer">
+    <div class="w1100">
+       
+        <div class="center fl">
+            <p>
+                <a href="/col/col1389735/index.html" target="_blank">联系我们</a>丨
+                <a href="/col/col1389736/index.html" target="_blank">隐私声明</a>丨
+                <a href="/col/col1389737/index.html" target="_blank">免责声明</a>
+            </p>
+            <p>
+                 备案：浙ICP备09110377  <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010602004075" target="_blank">浙公网安备 33010602004075号</a>
+                <br />版权所有：浙江省人力资源和社会保障厅 建议采用IE9.0以上版本，1280*768分辨率
+            </p>
+        </div>
+        <div class="right fl">
+            <a target="_blank" href="http://121.43.68.40/exposure/jiucuo.html?site_code=3300000001&amp;url=http%3A%2F%2Fwww.zjhrss.gov.cn%2F">
+    <img style="margin-top: 17px;display: block;" src="http://zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web2681/site/picture/0/1708021334052279815.png" />
+</a>
+        </div>
+         <div class="left fl">
+            <a href="http://bszs.conac.cn/sitename?method=show&amp;id=06A0A3FFDF9C5952E053012819AC256F" target="_blank"><img id="imgConac" vspace="0" hspace="0" border="0" src="//dcs.conac.cn/image/red.png" data-bd-imgshare-binded="1" /></a>
+        </div>
+    </div>
+</div>
+
+		
+	</div>
+<a href="http://www.hanweb.com" style="display:none">Produced By 大汉网络 大汉版通发布系统</a>
+<script language="javascript" src="/script/web_front.js"></script>
+
+
+<div id="_my97DP" style="position: absolute; top: -1970px; left: -1970px;"><iframe style="width: 186px; height: 198px;" src="http://www.zjhrss.gov.cn/module/jslib/datepicker/My97DatePicker.htm" frameborder="0" border="0" scrolling="no"></iframe></div></body></html>
